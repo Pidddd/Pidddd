@@ -1,4 +1,10 @@
-# Hi there, I'm Pid! 👋
+<div align="center">
+  <a href="https://github.com/Pidddd">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Pid!+👋;Informatics+Engineering+Student;UI%2FUX+Designer+%26+Developer" alt="Typing SVG" />
+  </a>
+</div>
+
+---
 
 I'm an Informatics Engineering student passionate about software development, database administration, and UI/UX design. Always eager to learn new technologies and build impactful projects.
 
@@ -11,6 +17,8 @@ I'm an Informatics Engineering student passionate about software development, da
 
 **Languages & Frameworks:**
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white)
@@ -26,6 +34,14 @@ I'm an Informatics Engineering student passionate about software development, da
 
 ### 📊 GitHub Stats
 
-<a href="https://github.com/Pidddd">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pidddd&theme=tokyonight&show_icons=true&v=1" alt="GitHub Stats" />
-</a>
+<div align="center">
+  <a href="https://github.com/Pidddd">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pidddd&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
+</div>
+
+<br>
+
+<p align="left">
+  <img src="https://profile-counter.glitch.me/Pidddd/count.svg" alt="Visitor Count" />
+</p>
