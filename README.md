@@ -1,5 +1,7 @@
 <div align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Hi+there,+I%27m+Pid!+%F0%9F%91%8B;Informatics+Engineering+Student;UI%2FUX+Designer+%26+Developer)](https://github.com/Pidddd)
+  <a href="https://github.com/Pidddd">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Hi+there,+I%27m+Pid!+%F0%9F%91%8B;Informatics+Engineering+Student;UI%2FUX+Designer+%26+Developer" alt="Typing SVG" />
+  </a>
 </div>
 
 ---
