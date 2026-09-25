@@ -1,7 +1,5 @@
 <div align="center">
-  <a href="https://github.com/Pidddd">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Pid!+👋;Informatics+Engineering+Student;UI%2FUX+Designer+%26+Developer" alt="Typing SVG" />
-  </a>
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Hi+there,+I%27m+Pid!+%F0%9F%91%8B;Informatics+Engineering+Student;UI%2FUX+Designer+%26+Developer)](https://github.com/Pidddd)
 </div>
 
 ---
@@ -42,6 +40,6 @@ I'm an Informatics Engineering student passionate about software development, da
 
 <br>
 
-<p align="left">
-  <img src="https://profile-counter.glitch.me/Pidddd/count.svg" alt="Visitor Count" />
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Pidddd&color=8A2BE2&style=flat&label=PROFILE+VIEWS" alt="Visitor Count" />
+</div>
