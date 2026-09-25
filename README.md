@@ -26,4 +26,4 @@ I'm an Informatics Engineering student passionate about software development, da
 
 ### 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pidddd&theme=tokyonight&show_icons=true)](https://github.com/USERNAME_GITHUB_KAMU)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pidddd&theme=tokyonight&show_icons=true)](https://github.com/Pidddd)
