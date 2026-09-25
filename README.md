@@ -26,4 +26,6 @@ I'm an Informatics Engineering student passionate about software development, da
 
 ### 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pidddd&theme=tokyonight&show_icons=true&v=1)](https://github.com/Pidddd)
+<a href="https://github.com/Pidddd">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pidddd&theme=tokyonight&show_icons=true&v=1" alt="GitHub Stats" />
+</a>
