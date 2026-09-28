@@ -8,10 +8,10 @@
   <a href="mailto:424f1di@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE">
+  <a href="https://www.linkedin.com/in/ahmadrafidr/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://figma.com/@YOUR-FIGMA-HANDLE">
+  <a href="https://www.figma.com/@rrboy">
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   </a>
 </div>
@@ -24,12 +24,6 @@ I'm an Informatics Engineering student passionate about software development, da
 - Building a web-based application alongside my role as Project Manager for a PBL team developing the **SOBAT** app.
 - Focusing on UI/UX design, creating interactive web mockups, and conceptual data models.
 - Actively learning and deepening my knowledge in Object-Oriented Programming (OOP) and modern web technologies.
-
-### 🎨 UI/UX & Featured Projects
-| Project | Description | Tech/Tools |
-| :--- | :--- | :--- |
-| **SOBAT App Concept** | Lead UI/UX design, wireframing, user flow mapping, and database architecture for a student service application. | Figma, Conceptual Data Models |
-| **Interactive BMW E-Museum** | Designed and developed a single-page interactive web mockup showcasing a virtual car museum showcase. | HTML, Tailwind CSS, UI Design |
 
 <br>
 
@@ -64,10 +58,10 @@ I'm an Informatics Engineering student passionate about software development, da
 
 ### 🏆 GitHub Trophies
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Pidddd&theme=tokyonight&margin-w=15&no-frame=true&no-bg=true" alt="GitHub Trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Pidddd&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4" alt="GitHub Trophies" />
 </div>
+
+<br>
 
 ### 📊 GitHub Stats & Contributions
 
