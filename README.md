@@ -56,14 +56,6 @@ I'm an Informatics Engineering student passionate about software development, da
 
 <br>
 
-### 💻 Top Languages
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pidddd&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" />
-</div>
-
-<br>
-
 ### 📊 GitHub Stats & Contributions
 
 <div align="center">
