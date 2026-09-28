@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/Pidddd">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Hi+there,+I%27m+Pid!+%F0%9F%91%8B;Informatics+Engineering+Student;UI%2FUX+Designer+%26+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Hi+there,+I%27m+Pid!+%F0%9F%91%8B;Informatics+Engineering+Student;UI%2FUX+Designer+%26+Developer" alt="Typing SVG" />
   </a>
 </div>
 
@@ -57,10 +57,9 @@ I'm an Informatics Engineering student passionate about software development, da
 <br>
 
 ### 🏆 GitHub Trophies
+
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Pidddd&theme=tokyonight" alt="GitHub Trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Pidddd" alt="GitHub Trophies" />
 </div>
 
 <br>
