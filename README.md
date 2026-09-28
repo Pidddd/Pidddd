@@ -56,10 +56,10 @@ I'm an Informatics Engineering student passionate about software development, da
 
 <br>
 
-### 🏆 GitHub Trophies
+### 💻 Top Languages
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pidddd" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pidddd&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" />
 </div>
 
 <br>
@@ -85,5 +85,5 @@ I'm an Informatics Engineering student passionate about software development, da
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pidddd&color=8A2BE2&style=flat&label=PROFILE+VIEWS" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=Pidddd&color=00FFFF&style=flat&label=PROFILE+VIEWS" alt="Visitor Count" />
 </div>
