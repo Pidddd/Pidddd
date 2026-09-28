@@ -1,4 +1,5 @@
 name: generate animation
+
 on:
   schedule:
     - cron: "0 */24 * * *" 
@@ -6,6 +7,10 @@ on:
   push:
     branches:
     - main
+
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
