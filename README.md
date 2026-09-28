@@ -58,7 +58,9 @@ I'm an Informatics Engineering student passionate about software development, da
 
 ### 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pidddd&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4" alt="GitHub Trophies" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Pidddd&theme=tokyonight" alt="GitHub Trophies" />
+  </a>
 </div>
 
 <br>
