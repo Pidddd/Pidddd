@@ -63,6 +63,29 @@ const pid = {
 
 <br>
 
+<!-- ========================= FIGMA SHOWCASE ========================= -->
+<div align="center">
+
+## 🎨 Design Showcase
+
+<a href="https://www.figma.com/@rrboy">
+  <img width="100%" src="assets/figma-showcase.svg" alt="I think in frames. I ship in Figma." />
+</a>
+
+<br><br>
+
+`Research` &nbsp;→&nbsp; `Wireframe` &nbsp;→&nbsp; `Hi-Fi UI` &nbsp;→&nbsp; `Prototype` &nbsp;→&nbsp; `Handoff`
+
+<br>
+
+<a href="https://www.figma.com/@rrboy">
+  <img src="https://img.shields.io/badge/See_my_work_on_Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="See my work on Figma" />
+</a>
+
+</div>
+
+<br>
+
 <!-- ========================= TECH STACK ========================= -->
 <div align="center">
 
