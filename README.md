@@ -90,7 +90,7 @@ const pid = {
 <table>
   <tr>
     <td align="center">
-      <img height="180" src="https://github-readme-stats.vercel.app/api?username=Pidddd&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&title_color=E6EDF3&text_color=8B949E&icon_color=C9D1D9&bg_color=0D1117" alt="GitHub Stats" />
+      <img height="180" src="https://github-readme-stats.vercel.app/api?username=Pidddd&show_icons=true&hide_border=true&rank_icon=github&title_color=E6EDF3&text_color=8B949E&icon_color=C9D1D9&bg_color=0D1117" alt="GitHub Stats" />
     </td>
     <td align="center">
       <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pidddd&layout=compact&hide_border=true&langs_count=8&title_color=E6EDF3&text_color=8B949E&bg_color=0D1117" alt="Top Languages" />
