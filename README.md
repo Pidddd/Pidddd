@@ -1,20 +1,20 @@
 <!-- ========================= HEADER ========================= -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Hi%2C%20I'm%20Pid&fontSize=62&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Informatics%20Engineering%20Student%20%C2%B7%20UI%2FUX%20Designer%20%C2%B7%20Developer&descAlignY=60&descSize=17" alt="header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8b949e,50:484f58,100:161b22&height=230&section=header&text=Hi%2C%20I'm%20Pid&fontSize=62&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Informatics%20Engineering%20Student%20%C2%B7%20UI%2FUX%20Designer%20%C2%B7%20Developer&descAlignY=60&descSize=17" alt="header" />
 </div>
 
 <div align="center">
   <a href="https://github.com/Pidddd">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=620&lines=Building+things+that+look+good+and+work+well+%E2%9C%A8;Building+SI-DRIPP%2C+an+inventory+%26+sales+web+app+%F0%9F%9A%80;Designing+UI%2FUX+for+SOBAT+%F0%9F%8E%A8;Always+learning%2C+always+shipping+%F0%9F%92%BB" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E6EDF3&center=true&vCenter=true&width=700&lines=Building+things+that+look+good+and+work+well+%E2%9C%A8;Building+SI-DRIPP%2C+an+inventory+%26+sales+web+app+%F0%9F%9A%80;Designing+UI%2FUX+for+SOBAT+%F0%9F%8E%A8;Always+learning%2C+always+shipping+%F0%9F%92%BB" alt="Typing SVG" />
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pidddd&color=00FFFF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Pidddd?style=for-the-badge&logo=github&color=00FFFF&labelColor=0d1117" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Pidddd?style=for-the-badge&logo=github&color=00FFFF&labelColor=0d1117" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=Pidddd&color=6e7681&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Pidddd?style=for-the-badge&logo=github&color=8b949e&labelColor=21262d" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Pidddd?style=for-the-badge&logo=github&color=8b949e&labelColor=21262d" alt="Stars" />
 </div>
 
 <br>
@@ -90,37 +90,15 @@ const pid = {
 <table>
   <tr>
     <td align="center">
-      <img height="180" src="https://github-readme-stats.vercel.app/api?username=Pidddd&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats" />
+      <img height="180" src="https://github-readme-stats.vercel.app/api?username=Pidddd&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&title_color=E6EDF3&text_color=8B949E&icon_color=C9D1D9&bg_color=0D1117" alt="GitHub Stats" />
     </td>
     <td align="center">
-      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pidddd&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pidddd&layout=compact&hide_border=true&langs_count=8&title_color=E6EDF3&text_color=8B949E&bg_color=0D1117" alt="Top Languages" />
     </td>
   </tr>
 </table>
 
-<img src="https://streak-stats.demolab.com?user=Pidddd&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
-
-</div>
-
-<br>
-
-<!-- ========================= ACTIVITY GRAPH ========================= -->
-<div align="center">
-
-## 📈 Contribution Activity
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Pidddd&theme=tokyo-night&hide_border=true&area=true&radius=10&custom_title=Contribution%20Graph" alt="Contribution Graph" />
-
-</div>
-
-<br>
-
-<!-- ========================= TROPHIES ========================= -->
-<div align="center">
-
-## 🏆 Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=Pidddd&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="Trophies" />
+<img src="https://streak-stats.demolab.com?user=Pidddd&hide_border=true&border_radius=10&background=0D1117&ring=8B949E&fire=E6EDF3&currStreakNum=E6EDF3&currStreakLabel=C9D1D9&sideNums=E6EDF3&sideLabels=8B949E&dates=6E7681" alt="GitHub Streak" />
 
 </div>
 
@@ -148,5 +126,5 @@ const pid = {
 
 <!-- ========================= FOOTER ========================= -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,50:484f58,100:8b949e&height=120&section=footer" alt="footer" />
 </div>
