@@ -1,8 +1,23 @@
+<!-- ========================= HEADER ========================= -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Hi%2C%20I'm%20Pid&fontSize=62&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Informatics%20Engineering%20Student%20%C2%B7%20UI%2FUX%20Designer%20%C2%B7%20Developer&descAlignY=60&descSize=17" alt="header" />
+</div>
+
 <div align="center">
   <a href="https://github.com/Pidddd">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Hi+there,+I%27m+Pid!+%F0%9F%91%8B;Informatics+Engineering+Student;UI%2FUX+Designer+%26+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=620&lines=Building+things+that+look+good+and+work+well+%E2%9C%A8;Building+SI-DRIPP%2C+an+inventory+%26+sales+web+app+%F0%9F%9A%80;Designing+UI%2FUX+for+SOBAT+%F0%9F%8E%A8;Always+learning%2C+always+shipping+%F0%9F%92%BB" alt="Typing SVG" />
   </a>
 </div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Pidddd&color=00FFFF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Pidddd?style=for-the-badge&logo=github&color=00FFFF&labelColor=0d1117" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Pidddd?style=for-the-badge&logo=github&color=00FFFF&labelColor=0d1117" alt="Stars" />
+</div>
+
+<br>
 
 <div align="center">
   <a href="mailto:424f1di@gmail.com">
@@ -16,66 +31,122 @@
   </a>
 </div>
 
----
+<br>
 
-I'm an Informatics Engineering student passionate about software development, database administration, and UI/UX design. Always eager to learn new technologies and build impactful projects.
+<!-- ========================= ABOUT ========================= -->
+## 👨‍💻 About Me
 
-### 🔭 What I'm currently working on
-- Building a web-based application alongside my role as Project Manager for a PBL team developing the **SOBAT** app.
-- Focusing on UI/UX design, creating interactive web mockups, and conceptual data models.
-- Actively learning and deepening my knowledge in Object-Oriented Programming (OOP) and modern web technologies.
+```js
+const pid = {
+  role: "Informatics Engineering Student",
+  focus: ["Software Development", "Database Administration", "UI/UX Design"],
+  currentlyBuilding: "SI-DRIPP — inventory & sales web app for MKP Store (PBL)",
+  currentlyLearning: ["Object-Oriented Programming", "Web Development"],
+  alsoWorkedOn: "SOBAT — UI/UX competition project for students living away from home",
+  funFact: "I design it in Figma first, then I build it in code 🎨➡️💻",
+};
+```
 
 <br>
 
+## 🔭 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| 🧾 **SI-DRIPP** | *Sistem Informasi Pendataan Stok dan Transaksi MKP Store* — a centralized web app for POS invoicing, automatic global stock deduction, interactive stock opname, receivables (Term of Payment) tracking, and a restock-alert dashboard with 4 role-based access levels. Built for a real F&B distributor as an integrated PBL project. | `PHP` `MySQL / PostgreSQL` `HTML` `CSS` `JavaScript` |
+| 🎓 **SOBAT** | *SOlusi Bersama Anak ranTau* — a UI/UX competition project: designing an app concept for students living away from home. | `Figma` `UI/UX` |
+
+### 🚧 Currently
+- 🧠 Learning **Object-Oriented Programming** and **web development** while building SI-DRIPP
+- 🗄️ Working on database design (ERD, relational schema) and back-end logic
+- 🎨 Keeping up my UI/UX design practice in Figma
+
+<br>
+
+<!-- ========================= TECH STACK ========================= -->
 <div align="center">
-  
-### 🛠️ Tech Stack & Tools
 
-**Languages & Frameworks:**<br>
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white)
+## 🛠️ Tech Stack & Tools
 
-<br>
+<img src="https://skillicons.dev/icons?i=java,php,js,html,css,bash&theme=dark" alt="Languages" />
+<br><br>
+<img src="https://skillicons.dev/icons?i=postgres,mariadb&theme=dark" alt="Databases" />
+<br><br>
+<img src="https://skillicons.dev/icons?i=figma,ubuntu,git,github&theme=dark" alt="Tools" />
 
-**Databases:**<br>
-![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+<br><br>
 
-<br>
-
-**Design & Environment:**<br>
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+<sub><b>Languages</b> · Java · PHP · JavaScript · HTML5 · CSS3 · Bash &nbsp;|&nbsp; <b>Databases</b> · PostgreSQL · MariaDB &nbsp;|&nbsp; <b>Design & Env</b> · Figma · Ubuntu · Git</sub>
 
 </div>
 
 <br>
 
-### 📊 GitHub Stats & Contributions
-
+<!-- ========================= STATS ========================= -->
 <div align="center">
-  <a href="https://github.com/Pidddd">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pidddd&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
+
+## 📊 GitHub Stats
+
+<table>
+  <tr>
+    <td align="center">
+      <img height="180" src="https://github-readme-stats.vercel.app/api?username=Pidddd&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats" />
+    </td>
+    <td align="center">
+      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pidddd&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+<img src="https://streak-stats.demolab.com?user=Pidddd&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+
 </div>
 
 <br>
 
+<!-- ========================= ACTIVITY GRAPH ========================= -->
 <div align="center">
+
+## 📈 Contribution Activity
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Pidddd&theme=tokyo-night&hide_border=true&area=true&radius=10&custom_title=Contribution%20Graph" alt="Contribution Graph" />
+
+</div>
+
+<br>
+
+<!-- ========================= TROPHIES ========================= -->
+<div align="center">
+
+## 🏆 Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=Pidddd&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="Trophies" />
+
+</div>
+
+<br>
+
+<!-- ========================= SNAKE ========================= -->
+<div align="center">
+
+## 🐍 Contribution Snake
+
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pidddd/Pidddd/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pidddd/Pidddd/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Pidddd/Pidddd/output/github-contribution-grid-snake.svg">
   </picture>
+
 </div>
 
 <br>
 
+<!-- ========================= QUOTE ========================= -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pidddd&color=00FFFF&style=flat&label=PROFILE+VIEWS" alt="Visitor Count" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1500&color=8B949E&center=true&vCenter=true&width=620&lines=%22Good+design+is+as+little+design+as+possible.%22+%E2%80%94+Dieter+Rams;%22Talk+is+cheap.+Show+me+the+code.%22+%E2%80%94+Linus+Torvalds" alt="Quote" />
+</div>
+
+<!-- ========================= FOOTER ========================= -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer" />
 </div>
