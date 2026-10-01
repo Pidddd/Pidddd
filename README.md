@@ -113,15 +113,15 @@ const pid = {
 <table>
   <tr>
     <td align="center">
-      <img height="180" src="https://github-readme-stats.vercel.app/api?username=Pidddd&show_icons=true&hide_border=true&rank_icon=github&title_color=E6EDF3&text_color=8B949E&icon_color=C9D1D9&bg_color=0D1117" alt="GitHub Stats" />
+      <img height="180" src="https://github-readme-stats.vercel.app/api?username=Pidddd&show_icons=true&hide_border=true&rank_icon=github&title_color=E6EDF3&text_color=8B949E&icon_color=C9D1D9&bg_color=0D1117&v=2" alt="GitHub Stats" />
     </td>
     <td align="center">
-      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pidddd&layout=compact&hide_border=true&langs_count=8&title_color=E6EDF3&text_color=8B949E&bg_color=0D1117" alt="Top Languages" />
+      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pidddd&layout=compact&hide_border=true&langs_count=8&title_color=E6EDF3&text_color=8B949E&bg_color=0D1117&v=2" alt="Top Languages" />
     </td>
   </tr>
 </table>
 
-<img src="https://streak-stats.demolab.com?user=Pidddd&hide_border=true&border_radius=10&background=0D1117&ring=8B949E&fire=E6EDF3&currStreakNum=E6EDF3&currStreakLabel=C9D1D9&sideNums=E6EDF3&sideLabels=8B949E&dates=6E7681" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=Pidddd&hide_border=true&border_radius=10&background=0D1117&ring=8B949E&fire=E6EDF3&currStreakNum=E6EDF3&currStreakLabel=C9D1D9&sideNums=E6EDF3&sideLabels=8B949E&dates=6E7681&v=2" alt="GitHub Streak" />
 
 </div>
 
